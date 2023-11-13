@@ -1,3 +1,4 @@
+<img alt=“Coding” align=“center” src="https://miro.medium.com/v2/resize:fit:1400/1*vkfI4nFNheC5v0p7wzDtGg.gif" width="400">
 <h1 align="center">Hi 👋, I'm Inomjon</h1>
 <h3 align="center">A passionate Flutter developer from Uzbekistan</h3>
 <t align="center">
