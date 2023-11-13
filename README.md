@@ -1,4 +1,4 @@
-<img alt=“Coding” align=“center” src="https://miro.medium.com/v2/resize:fit:1400/1*vkfI4nFNheC5v0p7wzDtGg.gif" width="400">
+<img src="https://camo.githubusercontent.com/7837f4bc8d5b8cf769702bc69957eee0511490a8b63cee82d8a160692ceb9d55/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a766b6649346e464e6865433576307037777a447447672e676966" alt="MasterHead" data-canonical-src="https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Inomjon</h1>
 <h3 align="center">A passionate Flutter developer from Uzbekistan</h3>
 <t align="center">
