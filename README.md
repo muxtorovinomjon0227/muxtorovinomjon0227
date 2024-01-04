@@ -38,4 +38,4 @@
 ## My GitHub Statistics
 [![Max Weber GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-weber&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-weber)](https://github.com/anuraghazra/github-readme-stats)
+
