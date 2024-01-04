@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muxtorovinomjon0227&show_icons=true&locale=en" alt="muxtorovinomjon0227" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muxtorovinomjon0227&" alt="muxtorovinomjon0227" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-weber)](https://github.com/anuraghazra/github-readme-stats)
