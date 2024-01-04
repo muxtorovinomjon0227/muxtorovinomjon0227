@@ -37,8 +37,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muxtorovinomjon0227&" alt="muxtorovinomjon0227" /></p>
 
 ## My GitHub Statistics
-[![Max Weber GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-weber&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Max Weber GitHub Stats](https://github-readme-stats.vercel.app/api?username=muxtorovinomjon0227&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-weber)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muxtorovinomjon0227)](https://github.com/anuraghazra/github-readme-stats)
 
 
