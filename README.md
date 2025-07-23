@@ -7,7 +7,7 @@
   
 <p align="left"> <a href="https://twitter.com/inomjonmuxtorov" target="blank"><img src="https://img.shields.io/twitter/follow/inomjonmuxtorov?logo=twitter&style=for-the-badge" alt="inomjonmuxtorov" /></a> </p>
 
-- 🔭 I’m currently working on [Xmed](https://play.google.com/store/apps/details?id=com.telehealth.xmed&hl=en&gl=US)
+- 🔭 I’m currently working on [Uzbekistan Railways (Oʻzbekiston temir yoʻllari) - UTY](https://railway.uz/uz/)
 
 - 🌱 I’m currently learning **Kotlin**
 
